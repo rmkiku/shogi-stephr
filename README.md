@@ -1,5 +1,6 @@
 # shogi-stephr
-This is the professional shogi players' ratings.<br>
+shogi-stephr-r.txt file contains the professional shogi players' ratings.<br>
+It is tab-seperated text file.<br>
 We calcurated these ratings by the Stephenson rating system.<br>
 The Stephenson rating system is in the "PlayerRatings" package for R.<br>
 Note that we indicate this "R" is the software(or the system ,or the project) for statistics, NOT rating(s).<br>
